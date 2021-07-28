@@ -1,4 +1,4 @@
-# Portofolio personal - TODAVÍA EN PROCESO
+# Portofolio personal
 
 He creado este portofolio personal añadiendo mi propio estilo a cada sección. 
 Dicha página web contiene información sobre mi (experiencia, proyectos, redes sociales) incluyendo el Currículum Vítae.
