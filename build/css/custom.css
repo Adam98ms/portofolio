@@ -13382,7 +13382,6 @@ body {
 .text {
   color: white;
   text-decoration: none;
-  padding: 15px;
   border: 1px solid white;
   border-radius: 6px;
   font-size: 20px;
@@ -13397,7 +13396,6 @@ body {
 .text:hover {
   color: white;
   text-decoration: none;
-  padding: 15px;
   border: 1px solid white;
   border-radius: 6px;
   font-size: 20px;
